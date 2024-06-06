@@ -1,0 +1,21 @@
+html {
+    background-color: #282828;
+    color: olive;
+}
+
+a:visited {
+    color: blue;
+}
+
+h1, h2, h3, p {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+li {
+    border: 1px solid olive;
+}
